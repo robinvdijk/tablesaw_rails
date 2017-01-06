@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Robin van Dijk"]
   s.email       = 'robinvandijk2@gmail.com'
   s.files       = ["lib/tablesaw_rails.rb"]
+  s.require_paths = ["lib"]
   s.homepage    =
     'http://rubygems.org/gems/tablesaw_rails'
   s.license       = 'MIT'
